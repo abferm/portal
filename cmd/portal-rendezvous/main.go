@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/ZinoKader/portal/constants"
-	"github.com/ZinoKader/portal/pkg/rendezvous"
-	"github.com/ZinoKader/portal/tools"
+	"github.com/abferm/portal/constants"
+	"github.com/abferm/portal/pkg/rendezvous"
+	"github.com/abferm/portal/tools"
 	"github.com/jessevdk/go-flags"
 )
 

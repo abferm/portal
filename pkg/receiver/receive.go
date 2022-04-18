@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/ZinoKader/portal/models/protocol"
-	"github.com/ZinoKader/portal/tools"
+	"github.com/abferm/portal/models/protocol"
+	"github.com/abferm/portal/tools"
 	"github.com/gorilla/websocket"
 )
 

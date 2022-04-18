@@ -3,7 +3,7 @@ package crypt_test
 import (
 	"testing"
 
-	"github.com/ZinoKader/portal/pkg/crypt"
+	"github.com/abferm/portal/pkg/crypt"
 	"github.com/schollz/pake/v3"
 	"github.com/stretchr/testify/assert"
 )

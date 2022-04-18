@@ -6,7 +6,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ZinoKader/portal/models/protocol"
+	"github.com/abferm/portal/models/protocol"
 	"github.com/gorilla/websocket"
 )
 

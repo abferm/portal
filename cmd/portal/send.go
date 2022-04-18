@@ -6,12 +6,12 @@ import (
 	"os"
 	"time"
 
-	"github.com/ZinoKader/portal/constants"
-	"github.com/ZinoKader/portal/models"
-	"github.com/ZinoKader/portal/pkg/sender"
-	"github.com/ZinoKader/portal/tools"
-	"github.com/ZinoKader/portal/ui"
-	senderui "github.com/ZinoKader/portal/ui/sender"
+	"github.com/abferm/portal/constants"
+	"github.com/abferm/portal/models"
+	"github.com/abferm/portal/pkg/sender"
+	"github.com/abferm/portal/tools"
+	"github.com/abferm/portal/ui"
+	senderui "github.com/abferm/portal/ui/sender"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/gorilla/websocket"
 )

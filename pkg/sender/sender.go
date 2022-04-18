@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ZinoKader/portal/models"
-	"github.com/ZinoKader/portal/pkg/crypt"
+	"github.com/abferm/portal/models"
+	"github.com/abferm/portal/pkg/crypt"
 	"github.com/gorilla/websocket"
 )
 

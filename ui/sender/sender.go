@@ -5,8 +5,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ZinoKader/portal/tools"
-	"github.com/ZinoKader/portal/ui"
+	"github.com/abferm/portal/tools"
+	"github.com/abferm/portal/ui"
 	"github.com/atotto/clipboard"
 	"github.com/charmbracelet/bubbles/progress"
 	"github.com/charmbracelet/bubbles/spinner"

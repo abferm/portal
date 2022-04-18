@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/ZinoKader/portal/models"
-	"github.com/ZinoKader/portal/models/protocol"
-	"github.com/ZinoKader/portal/pkg/crypt"
-	"github.com/ZinoKader/portal/tools"
+	"github.com/abferm/portal/models"
+	"github.com/abferm/portal/models/protocol"
+	"github.com/abferm/portal/pkg/crypt"
+	"github.com/abferm/portal/tools"
 	"github.com/gorilla/websocket"
 	"github.com/schollz/pake/v3"
 )

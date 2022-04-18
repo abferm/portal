@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ZinoKader/portal/tools"
-	"github.com/ZinoKader/portal/ui"
+	"github.com/abferm/portal/tools"
+	"github.com/abferm/portal/ui"
 	"github.com/charmbracelet/bubbles/progress"
 	"github.com/charmbracelet/bubbles/spinner"
 	tea "github.com/charmbracelet/bubbletea"

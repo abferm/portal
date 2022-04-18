@@ -10,9 +10,9 @@ import (
 	"path"
 	"strings"
 
-	"github.com/ZinoKader/portal/constants"
-	"github.com/ZinoKader/portal/models"
-	"github.com/ZinoKader/portal/tools"
+	"github.com/abferm/portal/constants"
+	"github.com/abferm/portal/models"
+	"github.com/abferm/portal/tools"
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/jessevdk/go-flags"
 )
