@@ -12,7 +12,7 @@ import (
 	"github.com/abferm/portal/pkg/crypt"
 	"github.com/abferm/portal/tools"
 	"github.com/gorilla/websocket"
-	"github.com/schollz/pake"
+	"github.com/schollz/pake/v3"
 	"github.com/stretchr/testify/assert"
 )
 

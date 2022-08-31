@@ -12,10 +12,11 @@ require (
 	github.com/stretchr/testify v1.7.0
 )
 
+require github.com/jessevdk/go-flags v1.5.0
+
 require (
 	github.com/charmbracelet/harmonica v0.1.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
-	github.com/jessevdk/go-flags v1.5.0
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
 	github.com/mattn/go-runewidth v0.0.13 // indirect
 	github.com/muesli/termenv v0.9.0 // indirect
@@ -29,10 +30,9 @@ require (
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/muesli/ansi v0.0.0-20211031195517-c9f0611b6c70 // indirect
 	github.com/muesli/reflow v0.3.0
-	github.com/schollz/pake v1.1.1
-	github.com/schollz/pake/v3 v3.0.2
+	github.com/schollz/pake/v3 v3.0.4
 	github.com/tscholl2/siec v0.0.0-20210707234609-9bdfc483d499 // indirect
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/crypto v0.0.0-20220829220503-c86fa9a7ed90
 	golang.org/x/sys v0.0.0-20211107104306-e0b2ad06fe42 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
